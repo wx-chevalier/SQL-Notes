@@ -32,7 +32,7 @@ SELECT
 
 # SQL 查询流程
 
-![SQL 查询流程](https://assets.ng-tech.icu/item/20230622202543.png)
+![SQL 查询流程](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230622202543.png)
 
 SQL 语句由数据库系统分几个步骤执行，包括：
 
